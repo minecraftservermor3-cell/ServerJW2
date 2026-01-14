@@ -1,0 +1,304 @@
+{
+  "portable_blueprints:recipes/recipes": {
+    "criteria": {
+      "always_unlock": "2025-08-16 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-08-16 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "thijquint:root": {
+    "criteria": {
+      "tick": "2025-08-16 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-08-16 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/root": {
+    "criteria": {
+      "tick": "2025-08-16 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "jurassic_additions:welcome_to_jurassic_additions": {
+    "criteria": {
+      "welcome_to_jurassic_additions_0": "2025-08-16 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "thijquint:anti": {
+    "criteria": {
+      "tick": "2025-08-16 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-08-16 17:44:24 +0000",
+      "has_black_balloon": "2025-08-16 17:44:24 +0000",
+      "has_lime_balloon": "2025-08-16 17:44:24 +0000",
+      "has_cyan_balloon": "2025-08-16 17:44:24 +0000",
+      "has_light_blue_balloon": "2025-08-16 17:44:24 +0000",
+      "has_gray_balloon": "2025-08-16 17:44:24 +0000",
+      "has_pink_balloon": "2025-08-16 17:44:24 +0000",
+      "has_light_gray_balloon": "2025-08-16 17:44:24 +0000",
+      "has_white_balloon": "2025-08-16 17:44:24 +0000",
+      "has_blue_balloon": "2025-08-16 17:44:24 +0000",
+      "has_yellow_balloon": "2025-08-16 17:44:24 +0000",
+      "has_purple_balloon": "2025-08-16 17:44:24 +0000",
+      "has_orange_balloon": "2025-08-16 17:44:24 +0000",
+      "has_brown_balloon": "2025-08-16 17:44:24 +0000",
+      "has_green_balloon": "2025-08-16 17:44:24 +0000",
+      "has_magenta_balloon": "2025-08-16 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-08-16 17:44:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2025-11-07 20:06:52 +0000",
+      "minecraft:birch_forest": "2025-08-16 17:49:14 +0000",
+      "minecraft:bamboo_jungle": "2025-08-16 17:44:25 +0000",
+      "minecraft:beach": "2025-11-01 15:58:40 +0000",
+      "minecraft:dark_forest": "2025-08-16 17:48:51 +0000",
+      "minecraft:river": "2025-08-16 17:48:08 +0000",
+      "minecraft:stony_shore": "2025-11-07 20:03:23 +0000",
+      "minecraft:forest": "2025-08-16 17:49:46 +0000",
+      "minecraft:lush_caves": "2025-11-01 15:56:50 +0000",
+      "minecraft:deep_cold_ocean": "2025-11-01 15:53:14 +0000",
+      "minecraft:jungle": "2025-11-01 15:57:24 +0000",
+      "minecraft:ocean": "2025-11-01 15:58:09 +0000",
+      "minecraft:old_growth_birch_forest": "2025-11-01 17:08:58 +0000",
+      "minecraft:plains": "2025-08-16 17:50:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2025-11-01 15:59:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-11-01 15:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-11-01 16:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-11-01 16:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-11-01 16:08:04 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-11-01 16:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-11-01 16:34:57 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "toolsmith": "2025-11-01 16:56:49 +0000",
+      "woodworker": "2025-11-01 17:02:31 +0000",
+      "librarian": "2025-11-01 16:34:57 +0000",
+      "weaponsmith": "2025-11-01 16:56:42 +0000",
+      "armorer": "2025-11-01 17:22:55 +0000",
+      "farmer": "2025-11-01 17:19:02 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-11-01 16:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-11-01 16:58:40 +0000"
+    },
+    "done": true
+  },
+  "prehistoricfauna:prehistoricfauna/general/time_temple": {
+    "criteria": {
+      "time_temple": "2025-11-01 17:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-11-01 17:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2025-11-07 16:29:30 +0000",
+      "minecraft:skeleton": "2025-11-06 22:49:33 +0000",
+      "minecraft:creeper": "2025-11-01 17:13:02 +0000",
+      "minecraft:shulker": "2025-12-24 19:41:57 +0000",
+      "minecraft:piglin": "2025-11-06 22:49:13 +0000",
+      "minecraft:enderman": "2025-11-07 20:30:25 +0000",
+      "quark:foxhound": "2025-11-06 22:49:00 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-11-01 17:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-11-01 17:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-11-06 22:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-11-06 22:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-11-07 16:34:42 +0000",
+      "minecraft:nether_wastes": "2025-11-06 22:48:23 +0000",
+      "minecraft:soul_sand_valley": "2025-11-06 22:49:25 +0000",
+      "minecraft:basalt_deltas": "2025-11-07 16:22:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-11-07 16:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-11-07 16:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-11-07 16:29:32 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "brewingstand": "2025-11-07 18:35:06 +0000",
+      "lectern": "2025-11-07 18:52:37 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "brewingstand": "2025-11-07 18:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-11-07 18:42:09 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-11-07 19:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-11-07 20:03:52 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/root": {
+    "criteria": {
+      "requirement": "2025-11-07 20:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-11-07 20:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-11-07 20:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-11-07 20:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-11-07 20:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-11-07 20:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-12-24 19:43:03 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

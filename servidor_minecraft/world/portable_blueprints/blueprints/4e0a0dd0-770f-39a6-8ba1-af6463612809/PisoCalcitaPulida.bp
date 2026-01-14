@@ -1,0 +1,42 @@
+{
+  "nome": "PisoCalcitaPulida",
+  "altezza": 1,
+  "lunghezzaX": 5,
+  "lunghezzaZ": 5,
+  "offset": {
+    "f_123285_": 0,
+    "f_123286_": 0,
+    "f_123289_": 0
+  },
+  "BlocksData": {
+    "0": {
+      "x\u003d4,y\u003d0,z\u003d1": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d4,y\u003d0,z\u003d0": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d3,y\u003d0,z\u003d0": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d4,y\u003d0,z\u003d3": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d4,y\u003d0,z\u003d2": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d4,y\u003d0,z\u003d4": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d2,y\u003d0,z\u003d0": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d2,y\u003d0,z\u003d1": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d1,y\u003d0,z\u003d0": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d1,y\u003d0,z\u003d1": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d1,y\u003d0,z\u003d2": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d0,y\u003d0,z\u003d0": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d0,y\u003d0,z\u003d1": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d0,y\u003d0,z\u003d2": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d0,y\u003d0,z\u003d3": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d0,y\u003d0,z\u003d4": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d1,y\u003d0,z\u003d3": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d1,y\u003d0,z\u003d4": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d2,y\u003d0,z\u003d2": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d2,y\u003d0,z\u003d3": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d2,y\u003d0,z\u003d4": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d3,y\u003d0,z\u003d2": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d3,y\u003d0,z\u003d1": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d3,y\u003d0,z\u003d4": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull",
+      "x\u003d3,y\u003d0,z\u003d3": "\u003cbid\u003equark:polished_calcite\u003c/bid\u003enull"
+    }
+  },
+  "NotSolidBlocksData": {},
+  "BlocksNBT": {}
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "2d4ae3c2-140b-30aa-a376-1b3b78840496",
+    "name": "natasha",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "edc758b3-2f4e-4a91-830b-3f742e35b79b",
+    "name": "Luis",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "80e466f2-bc8c-3d5e-aa82-5f1b39436ae1",
+    "name": "Luiss",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "920c79d8-a1ca-3c23-8b42-dadfe7a301f4",
+    "name": "lol",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4e0a0dd0-770f-39a6-8ba1-af6463612809",
+    "name": "Morangg",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
